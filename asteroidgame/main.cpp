@@ -1,8 +1,9 @@
-/* 
+/* Opening file for our rebuild of the game Asteroids.
  * File:   main.cpp
- * Author: Cameron Morris - Cameron_Morris@student.uml.edu
+ * Author: David Jelley, Jr. and Cameron Morris
  *
  * Created on February 9, 2012, 10:26 PM
+ * Updated on February 10, 2012, 8:57 PM
  */
 
 #include <cstdlib>
